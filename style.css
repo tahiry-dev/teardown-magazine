@@ -285,3 +285,36 @@ header {
 .spanned-description {
   margin-left: 30px;
 }
+
+/* --- footer ---*/
+
+.footer-title {
+  width: 50%;
+  margin: 150px auto 70px auto;
+
+}
+
+.first-topics,
+.second-topics,
+.third-topics,
+.forth-topics {
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+}
+
+.topic-box {
+  margin-left: 10px;
+}
+
+.footer-images {
+  width: 100%;
+  margin-left: 150px;
+}
+
+.footer-images-boxes {
+ width: 280px;
+ height: 180px;
+ float: left;
+ margin: 30px 100px 30px 0;
+}
