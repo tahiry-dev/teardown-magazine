@@ -1,6 +1,6 @@
 # Design Teardown
 
-> For this project, I have created boxes that represents all elements in the website called ![Smashing magazine](https://www.smashingmagazine.com/).
+> For this project, I have created boxes that represents all elements in the website called [Smashing magazine](https://www.smashingmagazine.com/).
 
 ![image](https://user-images.githubusercontent.com/47100064/92925609-6a33fe80-f443-11ea-997b-7f16085cd9c3.png)
 
@@ -16,7 +16,7 @@ learn to apply all the design principles.
 
 ## Live Demo
 
-To quickly see this project in action, visit the link [here](https://raw.githack.com/tahiry-dev/teardown-magazine/solo-teardown/index.html) .
+To quickly see this project in action, click the link [here](https://raw.githack.com/tahiry-dev/teardown-magazine/solo-teardown/index.html) .
 
 ## Getting Started
 
