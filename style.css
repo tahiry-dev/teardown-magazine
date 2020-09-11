@@ -17,7 +17,7 @@
 
 .sm-boxes {
   width: 50px;
-  height: 50px;    
+  height: 50px;
 }
 
 .md-boxes {
@@ -54,33 +54,42 @@
   background-color: grey;
 }
 
+.most-pleasant {
+  background-color: rgb(20, 20, 20);
+}
+
+.pleasant {
+  background-color: rgb(59, 57, 57);
+}
+
 .border-radius {
   border-radius: 5px;
 }
 
 .mt {
   margin-top: 20px;
- }
- 
- .mt-2x {
+}
+
+.mt-2x {
   margin-top: 40px;
- }
+}
 
- .mt-3x {
+.mt-3x {
   margin-top: 60px;
- }
+}
 
- .mt-4x {
+.mt-4x {
   margin-top: 80px;
- }
+}
 
- .ml {
+.ml {
   margin-left: 30px;
- }
+}
 
- p {
+p {
   color: aliceblue;
- }
+}
+
 /* --- header --- */
 
 header {
@@ -110,7 +119,7 @@ header {
 
 .jumbotron {
   display: grid;
-  grid-template-columns:repeat(2, auto);
+  grid-template-columns: repeat(2, auto);
 }
 
 .jumbotron-boxes {
@@ -126,19 +135,19 @@ header {
 }
 
 .box-1 {
-  background-color: rgb(226, 86, 86);
+  background-color: rgb(49, 48, 48);
 }
 
 .box-2 {
-  background-color: maroon;
+  background-color: rgb(46, 44, 44);
 }
 
 .box-3 {
-  background-color: mediumaquamarine;
+  background-color: rgb(43, 41, 41);
 }
 
 .box-4 {
-  background-color: mediumorchid;
+  background-color: rgb(51, 45, 45);
 }
 
 .jumbotron-boxes-stack {
@@ -154,14 +163,13 @@ header {
   display: grid;
   grid-template-columns: repeat(3, auto);
   grid-template-rows: repeat(2, auto);
-  grid-gap: 5% 5%; 
+  grid-gap: 5% 5%;
   padding: 40px 65px 100px 80px;
-
 }
 
 .article-box {
- background-color: teal;
- padding: 15px;
+  background-color: rgb(189, 183, 183);
+  padding: 15px;
 }
 
 .box-spanning {
@@ -183,7 +191,7 @@ header {
 /* --- article-ad --- */
 
 .feature-product {
-  background-color: blue;
+  background-color: rgb(7, 6, 6);
   padding: 30px 0 30px 420px;
 }
 
@@ -260,7 +268,7 @@ header {
 }
 
 .guide-section-box {
-  margin:0 auto;
+  margin: 0 auto;
   width: 500px;
   height: 350px;
   padding: 25px 0 0 35px;
@@ -286,12 +294,11 @@ header {
   margin-left: 30px;
 }
 
-/* --- footer ---*/
+/* --- footer --- */
 
 .footer-title {
   width: 50%;
   margin: 150px auto 70px auto;
-
 }
 
 .first-topics,
@@ -305,6 +312,9 @@ header {
 
 .topic-box {
   margin-left: 10px;
+  width: 100px;
+  height: 30px;
+  border-radius: 15px;
 }
 
 .footer-images {
@@ -313,8 +323,8 @@ header {
 }
 
 .footer-images-boxes {
- width: 280px;
- height: 180px;
- float: left;
- margin: 30px 100px 30px 0;
+  width: 280px;
+  height: 180px;
+  float: left;
+  margin: 30px 100px 30px 0;
 }
