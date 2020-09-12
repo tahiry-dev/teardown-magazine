@@ -90,10 +90,17 @@ p {
   color: aliceblue;
 }
 
+.d-flex {
+  display: flex;
+}
+
+.d-grid {
+  display: grid;
+}
+
 /* --- header --- */
 
 header {
-  display: flex;
   justify-content: space-around;
   align-items: center;
   padding: 20px 0;
@@ -118,16 +125,11 @@ header {
 /* --- Jumbotron --- */
 
 .jumbotron {
-  display: grid;
   grid-template-columns: repeat(2, auto);
 }
 
 .jumbotron-boxes {
   padding: 80px 0 0 80px;
-}
-
-.author {
-  display: flex;
 }
 
 .jumbotron-boxes-name {
@@ -152,7 +154,6 @@ header {
 
 .jumbotron-boxes-stack {
   width: 30%;
-  display: flex;
   justify-content: space-between;
 }
 
@@ -160,7 +161,6 @@ header {
 
 .first-part-article,
 .second-part-article {
-  display: grid;
   grid-template-columns: repeat(3, auto);
   grid-template-rows: repeat(2, auto);
   grid-gap: 5% 5%;
@@ -221,7 +221,6 @@ header {
 }
 
 .other-author {
-  display: grid;
   grid-template-columns: repeat(2, auto);
   grid-template-rows: repeat(3, auto);
   grid-gap: 5%;
@@ -229,7 +228,6 @@ header {
 }
 
 .other-author-box {
-  display: flex;
   align-items: center;
 }
 
@@ -260,7 +258,6 @@ header {
 /* --- Guide-section --- */
 
 .guide-section {
-  display: grid;
   grid-template-columns: repeat(2, auto);
   grid-template-rows: repeat(3, auto);
   grid-gap: 10%;
@@ -305,7 +302,6 @@ header {
 .second-topics,
 .third-topics,
 .forth-topics {
-  display: flex;
   justify-content: center;
   padding: 15px;
 }
