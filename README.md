@@ -16,7 +16,7 @@ learn to apply all the design principles.
 
 ## Live Demo
 
-To quickly see this project in action, click the link [here](https://raw.githack.com/tahiry-dev/teardown-magazine/solo-teardown/index.html) .
+To quickly see this project in action, click the link [here](https://raw.githack.com/tahiry-dev/teardown-magazine/master/index.html) .
 
 ## Getting Started
 
